@@ -1,0 +1,24 @@
+body{
+  margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+  color:#3e3e3e;
+}
+
+#particles-js{
+  background:#f1f1f1;
+  height:400px;
+  width: 100%;
+}
+
+#intro{
+  background:#fbfbfb;
+  opacity:0.9;
+  padding:2em;
+  border:#ccc 2px solid;
+  border-radius: 2%;
+  position:absolute;
+  top:100px;
+  left:30%;
+  margin: 0 auto;
+  display: block;
+}
