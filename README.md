@@ -1,6 +1,7 @@
 ### A little about me.. 👋
 - 🔭 I’m currently working on building a key-logger for fun.
 - 🌱 I’m currently learning Scala
+- ⚡ Fun fact: I'm a fine artist and into digital art.
 - 📫 How to reach me: [Click Here](https://fatimaim.me/contact.html)
 <!--
 **fatima-mo/fatima-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
