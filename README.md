@@ -1,3 +1,4 @@
 ### Hi! I'm Fatima.. 👋
-- 🌱 I’m currently learning: Scala
-- 📫 How to reach me: [Click Here](https://fatimaim.me/contact.html)
+- 💻 I mainly code in C++, JavaScript, and Python. 
+- Interested in Blockchain programming.
+- Currently learning Rust.
